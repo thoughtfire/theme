@@ -1,16 +1,12 @@
 -------------------------------------------------------
-    Thank you for downloading Responsive Theme!
 -------------------------------------------------------
-This and any other Theme provided by CyberChimps should
-be free of bugs, however do note that we're only humans
-and if you spot a bug do us a favor and report here
-http://cyberchimps.com/forum/free/responsive/
-
-If something goes wrong, or you need our assistance with anything
+This  might be free of bugs, however do note that we're
+only humans and if you spot a bug do us a favor and report
+here.If something goes wrong, or you need our assistance with anything
 just register and post your question(s).
 
 -------------------------------------------------------
-    Responsive Features:
+    Theme Features:
 -------------------------------------------------------
 
 - Theme Options
@@ -47,22 +43,10 @@ What's great about this is that the other 3 are kind of on-demand,
 activate when needed, if not oh well...
 
 -------------------------------------------------------
-    License:
 -------------------------------------------------------
 
-Yes I know, but we have to say few words about
-that.
-
-The Theme itself is nothing but 100% GPL3.
-See license.txt for further details. There
-are however some parts of this Theme which are not
-GPL, however they are GPL-Compatible and thats still
-good.
-
-See headers of JS files for further details.
-
 -------------------------------------------------------
-    Adopting Responsive Theme (Theme Re-Distribution):
+    Adopting Black Forest Theme 
 -------------------------------------------------------
 
 It's GPL so yes you can base your Themes from Responsive
