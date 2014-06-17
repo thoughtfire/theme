@@ -41,7 +41,7 @@ if( !defined( 'ABSPATH' ) ) {
 	</head>
 
 <body <?php body_class(); ?>>
-
+	
 <?php responsive_container(); // before container hook ?>
 <div id="container" class="hfeed">
 
